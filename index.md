@@ -3,7 +3,7 @@
 **Name:** Raffi Dulgerian  
 **Email:** [rdulgerian@ucsd.edu](mailto:rdulgerian@ucsd.edu)
 
-**Section:** D39 – KV Cache Quantization for LLM Inference 
+**Section:** D39 – Quantization in ML Models
 **Mentor:** Arya Mazumdar
 
 ---
